@@ -11,4 +11,4 @@ COPY . /app
 
 CMD ["node","index.js"]
 
-EXPOSE 8000
+EXPOSE 8080
